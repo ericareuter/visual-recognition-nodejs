@@ -4,7 +4,7 @@ declared-services:
     label: watson_vision_combined
     plan: free
 applications:
-- name: OMG_make_me_this
+- name: drinkapp
   path: .
   command: npm start
   memory: 512M
